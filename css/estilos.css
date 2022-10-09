@@ -2,10 +2,20 @@ body
 {
     color: blueviolet;
     text-align: center;
-    font-family: Arial;
+    font-family: arial;
     font-size: 16px;
     margin: 0%;
     padding: 0%;
+}
+
+#cabecera {
+background-color: aqua;
+
+}
+
+#cabecera #tagline {
+    font-weight:  normal;
+    font-size: 2em;
 }
 
 #container{
