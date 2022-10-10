@@ -18,6 +18,11 @@ background-color: aqua;
     font-size: 2em;
 }
 
+#cabecera #logo{
+width: 60px;
+vertical-align: middle;
+}
+
 #container{
 width: 70%;
 padding: 1em;
